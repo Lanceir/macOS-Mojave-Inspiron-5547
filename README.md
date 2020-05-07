@@ -26,10 +26,13 @@
    
 本配置从一位俄罗斯老哥那里炒的，有线上网则是黑果小兵的镜像中自带的，我都统一放上面了，制作完启动U盘后，把上面的EFI文件夹覆盖U盘里的EFI即可。
 Extension则是要装完系统后自行安装，请自行百度kext wizard及使用教程。
+
 这边放一下使用的MAC镜像文件，是黑果小兵收集的。开始先测试了10.15.3的镜像，卡在了apfs_module_start:1683。后下的是10.14.2的镜像，完美适配。
-https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/
+https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/  请注意，clover的kexts文件夹里有部分是重复或者没用的驱动，因为我懒得测试了，测试了，所以一股脑放了进来，内附说明文件，可自行挑选驱动。但是全部放进去没有影响，完美适配。
+
 再放一篇我所参考的教程，依旧感谢黑果小兵。
 https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html
+
 
 
 
