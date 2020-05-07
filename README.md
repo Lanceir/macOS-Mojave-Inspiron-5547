@@ -1,6 +1,6 @@
 # macOS-Mojave-Inspiron-5547
 
-![img](https://s1.ax1x.com/2020/05/07/YmfznI.png)
+[![YmfznI.md.png](https://s1.ax1x.com/2020/05/07/YmfznI.md.png)](https://imgchr.com/i/YmfznI)
 
 
 ## 电脑配置: 
