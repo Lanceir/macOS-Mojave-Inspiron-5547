@@ -26,6 +26,10 @@
    
 本配置从一位俄罗斯老哥那里炒的，有线上网则是黑果小兵的镜像中自带的，我都统一放上面了，制作完启动U盘后，把上面的EFI文件夹覆盖U盘里的EFI即可。
 Extension则是要装完系统后自行安装，请自行百度kext wizard及使用教程。
+这边放一下使用的MAC镜像文件，是黑果小兵的集合。
+https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/
+再放一篇我所参考的教程，依旧感谢黑果小兵。
+https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html
 
 
 
