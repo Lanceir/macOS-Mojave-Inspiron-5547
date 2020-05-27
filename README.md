@@ -37,6 +37,8 @@ https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/
 再放一篇我所参考的教程，依旧感谢黑果小兵。
 https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html
 
+----------------------------------------------------
+有时候会出现掉网卡或者掉声卡的情况，把有线网卡驱动和声卡驱动用 kext wizard 装一下就好。
 
 
 
